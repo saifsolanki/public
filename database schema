@@ -1,0 +1,1 @@
+CREATE TABLE `poll` (`id` int(3) NOT NULL auto_increment, `question` varchar(200) default NULL, PRIMARY KEY  (`id`));
